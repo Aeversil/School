@@ -1,0 +1,12 @@
+c:\users\dunccan\documents\visual studio 2012\Projects\Chapter2-7\Chapter2-7\bin\Debug\Chapter2-7.exe.config
+C:\Users\Dunccan\documents\visual studio 2012\Projects\Chapter2-7\Chapter2-7\obj\Debug\Chapter2-7.csprojResolveAssemblyReference.cache
+C:\Users\Dunccan\documents\visual studio 2012\Projects\Chapter2-7\Chapter2-7\bin\Debug\Chapter2-7.exe
+C:\Users\Dunccan\documents\visual studio 2012\Projects\Chapter2-7\Chapter2-7\bin\Debug\Chapter2-7.pdb
+C:\Users\Dunccan\documents\visual studio 2012\Projects\Chapter2-7\Chapter2-7\obj\Debug\Chapter2-7.exe
+C:\Users\Dunccan\documents\visual studio 2012\Projects\Chapter2-7\Chapter2-7\obj\Debug\Chapter2-7.pdb
+C:\Users\Dunccan\Dropbox\Projects\Chapter2-7\Chapter2-7\bin\Debug\Chapter2-7.exe.config
+C:\Users\Dunccan\Dropbox\Projects\Chapter2-7\Chapter2-7\obj\Debug\Chapter2-7.exe
+C:\Users\Dunccan\Dropbox\Projects\Chapter2-7\Chapter2-7\obj\Debug\Chapter2-7.pdb
+C:\Users\Dunccan\Dropbox\Projects\Chapter2-7\Chapter2-7\bin\Debug\Chapter2-7.exe
+C:\Users\Dunccan\Dropbox\Projects\Chapter2-7\Chapter2-7\bin\Debug\Chapter2-7.pdb
+C:\Users\Dunccan\Dropbox\Projects\Chapter2-7\Chapter2-7\obj\Debug\Chapter2-7.csprojResolveAssemblyReference.cache

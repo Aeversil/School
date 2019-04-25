@@ -1,0 +1,58 @@
+<html>
+    <head>
+        <title>Titel van de pagina</title>
+        <style>
+            table, th, td {
+
+                border-collapse: collapse;
+            }
+            th, td {
+                padding: 15px;
+            }
+        </style>
+    </head>
+    <body>
+        <form method="post" action="bestemming">
+            <table style="width:100%">
+                <tr>
+                    <td>Naam:</td>
+                    <td width="300"></td>
+                    <td><input name="name" size="30" value="Voor en Achternaam"></td>
+                </tr>
+                <tr>
+                    <td>Adres:</td>
+                    <td></td>
+                    <td><textarea name="tekstvak">Vul hier je adres in:</textarea></td>
+                </tr>
+                <tr>
+                    <td>Geslacht</td>
+                    <td></td>
+                    <td>
+                        <input type="radio" name="Geslacht" value=1>Man<br>
+                        <input type="radio" name="Geslacht" value=2>Vrouw
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">Op welke tijdschriften wilt u zich abonneren?</td>
+                    <td rowspan="2"><input type="checkbox" name="Donald Duck">Donald Duck
+                        <br>
+                        <input type="checkbox" name="Kijk">Kijk
+                        <br>
+                        <input type="checkbox" name="Zo zit dat">Zo zit dat
+                        <br>
+                        <input type="checkbox" name="Tina">Tina
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td><input type="submit" value="Verzenden"></td>
+                    <td></td>
+                    <td><input type="reset" value="Leegmaken"></td>
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>

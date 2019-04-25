@@ -1,0 +1,12 @@
+c:\users\dunccan\documents\visual studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+C:\Users\Dunccan\Documents\Visual Studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.csprojResolveAssemblyReference.cache
+C:\Users\Dunccan\Documents\Visual Studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\Users\Dunccan\Documents\Visual Studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+C:\Users\Dunccan\Documents\Visual Studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\Users\Dunccan\Documents\Visual Studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+C:\Users\Dunccan\Dropbox\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+C:\Users\Dunccan\Dropbox\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\Users\Dunccan\Dropbox\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+C:\Users\Dunccan\Dropbox\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\Users\Dunccan\Dropbox\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+C:\Users\Dunccan\Dropbox\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.csprojResolveAssemblyReference.cache

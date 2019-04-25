@@ -1,0 +1,2 @@
+c:\users\dunccan\documents\visual studio 2012\Projects\Chapter3\Chapter3\bin\Debug\Chapter3.exe.config
+C:\Users\Dunccan\Dropbox\Projects\Chapter3\Chapter3\bin\Debug\Chapter3.exe.config

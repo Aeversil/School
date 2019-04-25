@@ -1,0 +1,9 @@
+c:\users\dunccan\documents\visual studio 2012\Projects\Chapter2-6\Chapter2-6\bin\Debug\Chapter2-6.exe.config
+c:\users\dunccan\documents\visual studio 2012\Projects\Chapter2-6\Chapter2-6\obj\Debug\Chapter2-6.csprojResolveAssemblyReference.cache
+C:\Users\Dunccan\Documents\Visual Studio 2012\Projects\Chapter2-6\Chapter2-6\bin\Debug\Chapter2-6.exe
+C:\Users\Dunccan\Documents\Visual Studio 2012\Projects\Chapter2-6\Chapter2-6\bin\Debug\Chapter2-6.pdb
+C:\Users\Dunccan\Documents\Visual Studio 2012\Projects\Chapter2-6\Chapter2-6\obj\Debug\Chapter2-6.exe
+C:\Users\Dunccan\Documents\Visual Studio 2012\Projects\Chapter2-6\Chapter2-6\obj\Debug\Chapter2-6.pdb
+C:\Users\Dunccan\Dropbox\Projects\Chapter2-6\Chapter2-6\bin\Debug\Chapter2-6.exe.config
+C:\Users\Dunccan\Dropbox\Projects\Chapter2-6\Chapter2-6\obj\Debug\Chapter2-6.exe
+C:\Users\Dunccan\Dropbox\Projects\Chapter2-6\Chapter2-6\obj\Debug\Chapter2-6.pdb

@@ -1,0 +1,5 @@
+c:\users\dunccan\documents\visual studio 2012\Projects\Chapter2\Chapter2\bin\Debug\Chapter2.exe.config
+c:\users\dunccan\documents\visual studio 2012\Projects\Chapter2\Chapter2\bin\Debug\Chapter2.exe
+c:\users\dunccan\documents\visual studio 2012\Projects\Chapter2\Chapter2\bin\Debug\Chapter2.pdb
+c:\users\dunccan\documents\visual studio 2012\Projects\Chapter2\Chapter2\obj\Debug\Chapter2.exe
+c:\users\dunccan\documents\visual studio 2012\Projects\Chapter2\Chapter2\obj\Debug\Chapter2.pdb

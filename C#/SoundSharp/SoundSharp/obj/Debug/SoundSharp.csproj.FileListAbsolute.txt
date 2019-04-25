@@ -1,0 +1,6 @@
+C:\Users\Dunccan\Dropbox\Projects\SoundSharp\SoundSharp\bin\Debug\SoundSharp.exe.config
+C:\Users\Dunccan\Dropbox\Projects\SoundSharp\SoundSharp\bin\Debug\SoundSharp.exe
+C:\Users\Dunccan\Dropbox\Projects\SoundSharp\SoundSharp\bin\Debug\SoundSharp.pdb
+C:\Users\Dunccan\Dropbox\Projects\SoundSharp\SoundSharp\obj\Debug\SoundSharp.csprojResolveAssemblyReference.cache
+C:\Users\Dunccan\Dropbox\Projects\SoundSharp\SoundSharp\obj\Debug\SoundSharp.exe
+C:\Users\Dunccan\Dropbox\Projects\SoundSharp\SoundSharp\obj\Debug\SoundSharp.pdb

@@ -1,0 +1,74 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 9-okt-2014, 12:37:31
+    Author     : Dunccan
+*/
+div#box1{
+    position: absolute;
+    top: 100px;
+    left: 780px;
+    background-color: transparent;
+    width: 72px;
+    height: 75px;
+    border: black 3px solid;
+}
+div#box2{
+    position: absolute;
+    top: 100px;
+    left: 856px;
+    background-color: red;
+    width: 300px;
+    height: 340px;
+    border: black 3px solid;
+}
+div#box3{
+    position: absolute;
+    top: 178px;
+    left: 780px;
+    background-color: transparent;
+    width: 72px;
+    height: 262px;
+    border: black 3px solid;
+}
+div#box4{
+    position: absolute;
+    top: 443px;
+    left: 780px;
+    background-color: blue;
+    width: 72px;
+    height: 75px;
+    border: black 3px solid;
+}
+div#box5{
+    position: absolute;
+    top: 443px;
+    left: 856px;
+    background-color: transparent;
+    width: 261px;
+    height: 75px;
+    border: black 3px solid;
+} 
+div#box6{
+    position: absolute;
+    top: 443px;
+    left: 1120px;
+    background-color: transparent;
+    width: 36px;
+    height: 37px;
+    border: black 3px solid;
+} 
+div#box7{
+    position: absolute;
+    top: 481px;
+    left: 1120px;
+    background-color: yellow;
+    width: 36px;
+    height: 37px;
+    border: black 3px solid;
+} 
+
+
